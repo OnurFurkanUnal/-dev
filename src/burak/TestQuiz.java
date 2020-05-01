@@ -11,7 +11,7 @@ public class TestQuiz {
 		}
 	    Arrays.sort(ar);
 		return ar[0];
-		
+		// aslýnda bunun yerine switch case ile puanlama yapacaksýn sýnav kagýdýna gore buna gerek yok
 	
 	}
 
