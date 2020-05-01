@@ -11,7 +11,7 @@ public class Quiz extends Grader {
 		this.grade=grade;
 	}
     
-	@Override
+	
 	public String getGrade() {
 		return grade;
 	}
